@@ -1,0 +1,431 @@
+
+
+.noticia1{
+    color: black;
+    text-align: center;
+    
+}
+
+.noticia2{
+    color: white;
+    text-align: center;
+    
+}
+
+.noticia3{
+    color: black;
+    text-align: center;
+    
+}
+
+.noticia4{
+    color: white;
+    text-align: center;
+    
+}
+
+.noticia6{
+    color: black;
+    text-align: center;
+}
+
+
+.noticia5{
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    text-align: center;
+    
+}
+
+.noticia21{
+    color: white;
+    text-align: center;
+    
+}
+
+
+.n1{
+    background-color: turquoise;
+    padding: 10px;
+    color: black;
+    
+}
+.n21{
+    padding:10px;
+    background-color: blue;
+    color: white;
+    
+}
+.n2{
+    padding: 10px;
+    background-color: red;
+    color: white;
+   
+}
+
+.n3{
+    padding: 10px;
+    background-color: white;
+    color: black;
+    
+}
+.n4{
+    padding: 10px;
+    background-color: red;
+    color: white;
+ 
+}
+
+
+.n6{
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+.n7{
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+
+.noticia7{
+    color: white;
+    text-align: center;
+}
+
+.n8{
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+.noticia8{
+    color: black;
+    text-align: center;
+}
+
+.n9{
+    padding: 10px;
+    background-color: turquoise;
+    color: black;
+}
+
+.noticia9{
+    color: black;
+    text-align: center;
+}
+
+.n10{
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+.noticia10{
+    color: black;
+    text-align: center;
+}
+
+.n11{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+
+.noticia11{
+    color: white;
+    text-align: center;
+}
+
+
+.n12{
+    padding: 10px;
+    background-color: red;
+    color: white;
+}
+
+.noticia12{
+    color: white;
+    text-align: center;
+}
+
+
+.n13{
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+
+.noticia13{
+    color: white;
+    text-align: center;
+}
+
+.n14{
+    padding: 10px;
+    background-color: red;
+    color: white;
+}
+
+.noticia14{
+    color: white;
+    text-align: center;
+}
+
+
+.n15{
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+.noticia15{
+    color: black;
+    text-align: center;
+}
+
+.n16{
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+.noticia16{
+    color: black;
+    text-align: center;
+}
+
+.n17{
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+.noticia17{
+    color: black;
+    text-align: center;
+}
+
+.n18{
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+.noticia18{
+    color: black;
+    text-align: center;
+}
+
+.n19{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+
+.noticia19{
+    color: white;
+    text-align: center;
+}
+
+.n20{
+    padding: 10px;
+    background-color: turquoise;
+    color: black;
+}
+
+.noticia20{
+    color: black;
+    text-align: center;
+}
+
+.n211{
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+
+.noticia211{
+    color: white;
+    text-align: center;
+}
+
+
+.title{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: right;
+    padding: 20px;
+    
+}
+.body1{
+    background-color: black;
+    
+}
+
+.botones{
+    
+    padding: 10px;
+    text-align: center;
+   
+}
+
+.btn1{
+    border: none;
+    color: white;
+    background-color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;   
+}
+.btn2{
+    border: none;
+    color: white;
+    background-color: green;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px; 
+}
+.btn3{
+    border: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px; 
+}
+.btn4{
+    border: none;
+    color: black;
+    background-color: turquoise;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px; 
+}
+.btn5{
+    border: none;
+    color: white;
+    background-color: red;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px; 
+}
+.btn6{
+    border: none;
+    color: black;
+    background-color: yellow;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px; 
+}
+
+.btn-fran{
+    border: none;
+    color: white;
+    background-color: gray;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.btn-jere{
+    border: none;
+    color: white;
+    background-color: gray;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.btn-nau{
+    border: none;
+    color: white;
+    background-color: gray;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.btn-luyo{
+    border: none;
+    color: white;
+    background-color: gray;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.btn-verlin{
+    border: none;
+    color: white;
+    background-color: gray;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+} 
+.btn-tobi{
+    border: none;
+    color: white;
+    background-color: gray;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
